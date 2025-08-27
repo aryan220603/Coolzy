@@ -171,7 +171,7 @@ const Hero = () => (
 
       {/* Bottle image */}
       <img
-        src="/Screenshot 2025-08-26 162606.png" 
+        src="/Screenshot 2025-08-27 214153.png" 
         alt="Coolzy Bottle"
         className="max-h-full max-w-full object-contain drop-shadow-[0_0_30px_rgba(96,165,250,0.5)]"
       />
